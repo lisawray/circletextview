@@ -1,4 +1,4 @@
-package com.lisawray.circletextview.library;
+package com.lisawray.circletextview;
 
 import android.annotation.TargetApi;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.lisawray.circletextview.demo;
+package com.lisawray.circletextview;
 
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
@@ -8,7 +8,7 @@ import android.text.Spanned;
 import android.text.style.ForegroundColorSpan;
 
 import com.lisawray.circletextview.R;
-import com.lisawray.circletextview.library.CircleTextView;
+import com.lisawray.circletextview.CircleTextView;
 
 public class MainActivity extends AppCompatActivity {
 

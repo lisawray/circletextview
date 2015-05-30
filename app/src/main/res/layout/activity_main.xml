@@ -5,7 +5,7 @@
                 android:layout_height="match_parent"
                 tools:context=".MainActivity">
 
-    <com.lisawray.circletextview.library.CircleTextView
+    <com.lisawray.circletextview.CircleTextView
         android:text="@string/hello_world"
         android:ellipsize="end"
         android:id="@+id/circle_text_view"
